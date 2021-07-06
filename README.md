@@ -24,19 +24,19 @@ Use the following gitHub link [Project Repo](https://github.com/Luis0624/user-di
 [Github Repo](https://github.com/Luis0624/user-directory-app)
 
 Sample Images of Deployed App
-![Working Demo Picture ](Develop/public/images/blogHome.png)
+![Working Demo Picture ](Main/public/images/workingDemo.png)
 
 
 Fitness Tracker App Demo
-![Working Demo Picture ](Develop/public/images/blogSignUp.png)
+![Working Demo Picture ](Main/public/images/DemoNameSort.png)
 
 
 
-![Working Demo Picture ](Develop/public/images/blogSignIn.png)
+![Working Demo Picture ](Main/public/images/DemoNameSortZtoA.png)
 
 
  
-![Working Demo Picture ](Develop/public/images/blogDash.png)
+![Working Demo Picture ](Main/public/images/DemoCitySort.png)
 
 
 ### USAGE
